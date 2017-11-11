@@ -1,4 +1,4 @@
-# 日常工作中用到的一些脚本
+# 一些脚本
 ## lua
 - faiss_wrap.c export  C symbol in object file
 - faiss.lua bind C API with FFi
